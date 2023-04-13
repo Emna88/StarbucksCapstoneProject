@@ -59,3 +59,5 @@ Starbucks_Capstone_notebook.ipynb -
 Run pip install -r requirements.txt
 
 
+### Medium Blog
+https://medium.com/@emna.krichen_72178/starbucks-coffee-data-analysis-81d01d34908c
