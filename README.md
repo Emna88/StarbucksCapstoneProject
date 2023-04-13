@@ -61,3 +61,6 @@ Run pip install -r requirements.txt
 
 ### Medium Blog
 https://medium.com/@emna.krichen_72178/starbucks-coffee-data-analysis-81d01d34908c
+
+### Acknowledgement
+I would like to thank Udacity for this amazing project, and Starbucks for providing the data.
